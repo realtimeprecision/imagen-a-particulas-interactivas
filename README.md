@@ -3,6 +3,9 @@
 ## Descripción
 Este proyecto utiliza una combinación de bibliotecas para generar una experiencia visual interactiva. Se basa en `jQuery`, `pixi.js`, y scripts personalizados para lograr esta interacción.
 
+![Descripción de la imagen](img/screenshot.png)
+
+
 ## Dependencias
 - [jQuery 2.2.4](https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js)
 - [pixi.js 4.1.1](https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.1.1/pixi.min.js)
@@ -17,7 +20,7 @@ Para incorporar este proyecto en tu página web, simplemente añade el siguiente
 
 ```html
 <iframe src="https://example.com/particulas/" frameborder="0" style="width: 100%; height: 100%;"></iframe>
-\```
+```
 
 Suponiendo que hayas subido este proyecto en un directorio llamado `particulas`.
 
