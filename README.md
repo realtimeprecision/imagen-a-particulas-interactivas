@@ -1,4 +1,4 @@
-# Imágen a particulas interactivas.
+# Imágen a partículas interactivas.
 
 ## Descripción
 Este proyecto utiliza una combinación de bibliotecas para generar una experiencia visual interactiva. Se basa en `jQuery`, `pixi.js`, y scripts personalizados para lograr esta interacción.
