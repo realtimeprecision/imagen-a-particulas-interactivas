@@ -26,5 +26,8 @@ Suponiendo que hayas subido este proyecto en un directorio llamado `particulas`.
 
 Para cambiar la imagen, simplemente agrégala al directorio `/img/` y luego asígnala a la propiedad `drawnImage` de la función `Nodes.multipleInit`.
 
+## Licencia
+Este proyecto está bajo la licencia [MIT](LICENSE).
+
 ---
 Desarrollado por **Real Time Precision**
